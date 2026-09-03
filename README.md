@@ -1,2 +1,2 @@
 # MethaLOX-Pack-Weborbit
-Adds MethaLox Engines and Fuel tanks
+Adds MethaLOX Engines and Fuel tanks
