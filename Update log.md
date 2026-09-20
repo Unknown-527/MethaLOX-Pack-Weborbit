@@ -16,3 +16,5 @@ v2.0(not released, in development)-
 - Fixed some shapes.
 - Changed mass of Cryo Engine.
 - Changed gradient of flame(again)
+- Changed appearance of Eagle, Eagle Vacuum, Cryo Engines
+- Renamed Eagle Vacuum to EVAC
