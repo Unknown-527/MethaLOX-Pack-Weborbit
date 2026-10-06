@@ -15,11 +15,11 @@ v1.3-
 - Inverted gradient of fuel tanks
 - Fixed some shapes.
 
-v2.0(not released, in development)-
+v2.0(beta release)-
 - Added Leap SM and MD Aerospike Engines(20/200kN).
 - Added Leap SL and Vacuum Engines(20kN).
 - Added TQ 12 SL and Vacuum Engines(700/785kn).
 - Decreased density of fuel(0.9 to 0.85).
-- Changed appearance of Eagle, Eagle Vacuum, Cryo Engines
+- Changed appearance of Eagle, Eagle Vacuum, Cryo, BE 4 Engines sligtly
 - Renamed Eagle Vacuum to EVAC
 - Renamed Cryo Engine to Pyro Engine
